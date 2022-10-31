@@ -22,9 +22,9 @@ void printList() {
    while(ptr != NULL) {
       printf("(%d,%d) ",ptr->key,ptr->data);
       ptr = ptr->next;
-        printf(" ]");
+        
    }
-	
+	 printf(" ]");
   
 }
 

@@ -248,3 +248,4 @@ void main() {
    printf("\nList after reversing the data: ");
    printList();
 
+}
